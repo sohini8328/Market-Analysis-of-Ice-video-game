@@ -6,3 +6,5 @@ Build With: This is the list of the libraries used by me to run this project wer
 Getting Started:
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple steps.
 Prequisites: This is an example of software and how to install them. VS Code
+
+Clone the repo https://github.com/sohini8328/Market-Analysis-of-Ice-video-game.git
